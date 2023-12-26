@@ -26,12 +26,13 @@ I started climbing on 2017 at one of those "ring the bell at the top" type of wa
 
 Soon after I started, I met one of my biggest climbing friends, Santi. Santi is also a mountain guide who, over the course of our climbing partnership, took me to several amazing climbing destinations, such as Sierra La Vigilancia, Capilla del Monte, Piedra Parada, and many more.
 
-![](/_posts/images/arenales/santi_tortu.jpg "Santi, Tortu and Me")
-*Santi, Tortu and Me on the summit of Patricia on my second trip to Arenales.*
-
 However, one of them stood out, Arenales, located at the Mendoza's Cordillera, a.k.a., the Andes. My first trip to this place had me realise I hadn't actually experienced the beauty of climbing yet. 
 
 These trips had me in awe, not only because of the stunning views and quality of the climbing, but also because of the sheer determination and composure that Santi and other friends (Tortu) climbed with.
+
+![](/_posts/images/arenales/santi_tortu.jpg "Santi, Tortu and Me")
+*Santi, Tortu and Me on the summit of Patricia on my second trip to Arenales.*
+
 
 Having successfully lead two 6a trad pitches on one of those last trips, I learned two things: Trad climbing was indeed hard and required a mental strength that I doubted I could ever achieve on my own. But I also knew I wanted to lead and share the experience with other people.
 
@@ -133,3 +134,47 @@ Besides trips with friends, I never had any formal Trad-specific climbing educat
 1. Keep It Simple Stupid - KISS - JB Mountain Skills [Youtube](https://youtu.be/IkL8o4qStI4). _Great video about building belaying setups._
 1. Los Arenales - KTL Rock Trip [Youtube Video](https://www.youtube.com/watch?v=VuUY3vIJ_u0). _Great video about Arenales, thank you!_
 1. Arenales A Tope Muro de Escalada Rock Trip [Youtube Video](https://www.youtube.com/watch?v=w1bGq1Wp7SQ). _Great video about Mujeres y Tequilas, showing the approach and good bit of the anchors._
+
+## Day 1: Mujeres, Tequilas y Otras Hierbas
+After a quick breakfast at Manzano Historico, we headed up the valley, arriving at the military checkpoint around 8 AM. From there we got to "El Puente" (the bridge) where we left our rented car (Toyota Etios that handled the gravel road just fine) at the parking spot.
+
+The camping spot and mountain hut are located 20 minutes away from the car. When loaded with all the food and equipment, it can be quite a strenuous hike. Therefore, we decided to head straight to the Aguja Nuez (remember I needed any little edge I could get.) and then return for things to setup camp.
+
+Finally, at 9 AM we started our approach to a classic multi-pitch _Mujeres, Tequilas y otras Hierbas_ graded 5+ and recommended in the guide.
+
+Phew, that was quite long intro before actually talking climbing, sorry (or not hehe). Anyway, let's get to it.
+
+### Approach
+The approach involves hiking in steep scree towards the right of the Aguja Nuez, which can be easily spotted by the huge stone pillar called "La Proa". 
+
+Arenales has the characteristic of having a million ways of reaching a given route. In this case, we probably took the worst, where scree accompanied us most of the way up.
+
+Once at the base of the route (1 long hour later), a 3rd class scramble will bring you to a huge plateau where Mujeres y Tequilas starts and many other routes as well (Black Titer Dyke).
+
+### The Route
+The route is a 5+ FR, 3 pitches route that is recommended in the guidebook. It is regarded as an iconic initiatory climb since all anchors have bolts and you can retreat at any point. Furthermore, the line follows a very clear diagonal flake that makes it impossible to get lost.
+
+So there I was, at 10:30 AM on my first ever multi-pitch as a leader. I will admit that I had to gaslight myself into believing I liked this sport. 
+
+#### Pitch 1: 4+
+This pitch involves climbing a pretty blocky section with a style that we, as a group, denominated "Trepin-danger" which translates to something like Sketchy-Scrambling. This is the type of easy climbing between ledges where falling can lead into a broken ankle.
+
+It is graded as a 4+ but I felt that the crux was around 5/5+. This discrepancy could be because, I was certainly very nervous and probably didn't choose the easiest path.
+
+At the top you reach, yet once again, another huge ledge that will feel like a deja-vu.
+
+#### Pitch 2: 5
+This is arguably felt the easiest of all the pitches that day. This is a very straight forward pitch that follows the flake edge. The rock quality is amazing and protections are abundant. 
+
+At this point, I was feeling really comfortable and confident, which was a great thing. I even found myself singing while climbing.
+
+This pitch ends at a not so comfortable standing belay on a sort of a small cave.
+
+#### Pitch 3: 5+
+A really fun 5+ pitch that involves easy lay-backing combined with steming at the beginning. The crux of the route is located at the very beginning by exiting the cave. This route had plenty of good hand-jams that made it really fun.
+
+The pitch ends at a pretty comfortable sitting belay from the top of the Aguja Nuez pillar, the views from here are just amazing.
+
+From this point on, you may choose to rappel down the 3 pitches and call it a day. However, we felt pretty good and decided to do the suggested extension.
+
+
