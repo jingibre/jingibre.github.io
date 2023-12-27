@@ -171,10 +171,40 @@ At this point, I was feeling really comfortable and confident, which was a great
 This pitch ends at a not so comfortable standing belay on a sort of a small cave.
 
 #### Pitch 3: 5+
-A really fun 5+ pitch that involves easy lay-backing combined with steming at the beginning. The crux of the route is located at the very beginning by exiting the cave. This route had plenty of good hand-jams that made it really fun.
+A really fun 5+ pitch that involves easy lay-backing combined with steming at the beginning. The crux of the route is located at the very beginning by exiting the cave (it is not a roof though). This route had plenty of good hand-jams that made it really fun.
 
 The pitch ends at a pretty comfortable sitting belay from the top of the Aguja Nuez pillar, the views from here are just amazing.
 
-From this point on, you may choose to rappel down the 3 pitches and call it a day. However, we felt pretty good and decided to do the suggested extension.
+From this point on, you may choose to rappel down the 3 pitches and call it a day. However, we felt pretty good and decided to do the an extension suggested in the guide and by some people.
+
+#### Extension Pitch 4: 5 or 6a
+From this point you have two options for doing an extension. One is a 6a crack system that looked pretty daunting from the bottom. This one lies on the facewall in front of the anchors and will definitely try next time.
+
+The second option is an easy blocky 4+ to 5 grade climb around the facewall. I chose this path since it was literally my first time leading a group and I opted for the safest option. 
+
+According to the guidebook, this extension pitch (whichever option you choose) ends at a removable anchor located at a huge ledge. However, I somehow landed at a fixed anchor, which the guidebook did not show nor mentioned. 
+
+So, there I was, essentially lost (albeit on a huge comfortable ledge) but I knew we were not that far from where I should have ended. After bringing my partners up, we were able to lean over the ledge we were standing and successfully spotted the ledge (which had the start of our abseils down). 
+
+After some brainstorming sesh with the guys, I started the actual last pitch of our endeavour which consisted of a 3rd-4th traverse to the anchors with a subtle downclimb. 
+
+### Getting Down
+As mentioned before, you may descent from the same route or do the extension and abseil through Black Titer Dyke. The latter -and the one we chose- has the advantage of being quite vertical, lessening the chances of getting the ropes stuck.
+
+These rappels end at big ledge that requires an easy downclimb to get to the start of Mujeres y Tequilas.
+
+I loved this route, if I had to pick a word to describe it I would say, safe. It gave me the confidence to lead my first multi-pitch in harmony.
+
+## Day 2: Chilling and Single Pitches at Carlos Daniel
+We felt surprisingly good the day after our first multi-pitch and thought of doing some sort of active rest. We chose the single-pitches at Carlos Daniel since it featured some easy trad routes that Juancho and Edu could try leading.
+
+And they not only tried but also onsighted their first trad pitch (a not so blocky 4th class). Edu displayed a repose that I had not seen in him before , and Juancho showed his inner survival mode that not many have privilege of witnessing. 
+
+On my side, I tried a 6a called "the Flake" which I had tried almost 3
+
+
+
+
+
 
 
