@@ -200,11 +200,73 @@ We felt surprisingly good the day after our first multi-pitch and thought of doi
 
 And they not only tried but also onsighted their first trad pitch (a not so blocky 4th class). Edu displayed a repose that I had not seen in him before , and Juancho showed his inner survival mode that not many have privilege of witnessing. 
 
-On my side, I tried a 6a called "the Flake" which I had tried almost 3
+On my end, I got on a 6a called "the Flake" which I had tried on previous trips. I was never able to redpoint it but with my newly gained confidence I thought I would ace it. Syke! I was terrorized by a traverse that I blindly protected with a sketchy #2 and had to pick my mental from the depths of the earth to complete the route.
+
+After a soft dinner at the hut, we chatted about the next day activities. Initially, our plan was to head to Patricia (6a) but after that traumatizing pitch I wasn't confident enough anymore to lead several 6a routes (I wasn't confident enough to lead anything actually, more on that coming). 
+
+Finally, after several recommendations from some new friends from La Plata, we settled on El Zorro (5+). The route sounded pretty good on paper but it didn't have a single bolted anchor and, that, worried me deeply.
+
+That night I got into the tent carrying plenty of anxiety but I thought it was just the shock from The Flake and that it would all go away once I counted my sheep. 
+
+Syke again! I had literally one of my worst nights at the mountains where I am pretty sure I endured my first panic attack. I was chaperoned by an inner Gollum whose personal mission was to demolish any confidence I had in me towards climbing (and life in general lol). When I finally decided to confront this new buddy of mine and zip him for a bit, the alarm went off.  
+
+## Day 3: El Zorro
+We got up as early as we could (I was already up chatting with my inner Gollum) to have spare time in case we got lost or had any type of setback. A quick breakfast and we were off to our final multi-pitch of the trip.
+
+### Approach
+A typical Arenales approach with steep hike over scree. However, I will say that this one felt significantly easier than Mujeres y Tequilas. The start of the route is to the left of the Jesus Christ statue so it's pretty hard to miss.
+
+### The Route
+The route is another beginner friendly multi-pitch located at the Aguja Cara del Inca. It was described by one of the guys from La Plata as "the easies route on the valley". The guidebook also recommends this line due to its great last pitch which I will describe later.
+
+#### Pitch 1: 5
+The pitch starts at the left side of the Jesus Christ easily spotted by some kind of chimney combined with a dihedral. 
+
+This pitch had me pretty nervous at the start but I must say it was really fun, and once the crux was over (the first meters), it became a pretty mellow blocky journey to the top.
+
+The anchor is located at a system of ledges where and protruding boulder becomes the obvious choice. Once I saw it, my climbing confidence was almost restored to its fullest.
 
 
+#### Pitch 2: 5+
+Can't remember much about this pitch but it involved some easy blocky climbing with one or two 5+ moves. At this point, my inner Gollum was being real quiet and I was really enjoying the experience. 
 
+This pitch ends at another system of ledges with plenty of vertical cracks to create an anchor with bomber gear. Three cams and a coordellete took care of matter.
 
+#### Pitch 3: 5+/6a
+This pitch starts off with a hand sized crack near a dihedral that allows for some stemming to escape the net-crack-climbing. The pitch finishes at another ledge system with, _yet again_, more vertical cracks for a bomber anchors. Three more cams and a 240 cm sling slayed the matter.
 
+#### Pitch 4: 6a
+Another blocky pitch that, as I began climbing, thought would be a Trepin-Danger (Sketchy Scrambling) but it involved some traversing together with some 6a moves. The crux was at the top and I was using my gear sparingly sine I didn't know what I would need at the anchor. Luckily after a delicate move with a great hand jam I reached the top, a huge boulder that the cordellete handled really well.
 
+#### Pitch 5: 5+ The GOAT
+This pitch follows two cracks located at the headwall infront of the boulder. The start involves an exposed move (but easy & fun) where you need to downclimb a little, turn around and lean from the anchor ledge into the headwall hands first (there is a gap between both formations). 
 
+Before doing it, Gollum was speaking back to me but I told him to shut it and proceeded to lean towards the wall with as much confidence I could gather. Once I grabbed the first hold I knew I was in for a sweet ride. 
+
+With a bomber #1 in, I was ready to enjoy what perhaps is, the best 5+ I've done in my entire life (as a gumby). The system of cracks were perfect, offering the possibility of net-crack-climbing if desired. 
+
+The pitch ends right at the top of the headwall where a small boulder can be slinged into an anchor (with a counter-pull cam as a backup).
+
+### Getting Down
+The great part of this route is that no abseilling is required (walk-off). It starts by walking towards the back of the route and then descending a steep scree hike, it is important to stay towards the right of the descent. Once the path ends, a short 3rd-4th downclimb will leave you at the huge canal which ends at the Jesus statue.
+
+Once we got down, I was finally able to enjoy our accomplishment and savour the beautiful day we had at the mountains. After a terrible night with myself I was able to prove me wrong and accept my capabilities. Yeah, fuck you inner Gollum.
+
+### Day 4: Rest Day
+After a celebratory meal the night before (I could finally eat without stress), we took our final day off at the valley. Not much happened in terms of climbing but we did a pretty cool hike to the top of the "plug" where some astonishing views of the valley took protagonism. 
+
+We also got to enjoy probably the best (a lot of best and worsts in this trip) mate I had in the mountains while listening to some good music alongside Juancho and Edu.
+
+I do recommend hiking up since it offers a good way of resting your fingers and also provides some really good views of the cordillera without too much effort.
+
+## Ending Words
+- arenales still doesn't cease to amaze me
+- I want to go back right now
+- Arenales demands and provides
+    - amazing climbing
+    - mental battles
+    - forces me to evolve
+    - great friends & bonding experiences where you literally trust your life to your partners
+I'll leave you a quote that resonated with me deeply during this trip and that I hope it does to you as well:
+
+> “You get to the top of a wall, there’s nothing up there. Lionel Terray, the great French climber called it ‘The conquistadors of the useless.’ Yeah, the end result is absolutely useless, but every time I travel, I learn something new and hopefully I get to be a better person.” – Yvon Chouinard, 180 Degrees South
