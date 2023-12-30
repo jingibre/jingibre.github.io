@@ -4,7 +4,7 @@ date: 2023-12-20
 ---
 
 # Arenales
-![Welcome to Arenales](/_posts/images/arenales/welcome.jpg "Welcome to Arenales")
+![Welcome to Arenales](/post_images/arenales/welcome.jpg "Welcome to Arenales")
 Bienvenidos, this post is intended to:
 - Tell you about my first trad climbing trip as a "Leader".
 - Get back to the community from which I've taken much and not given anything. This means trying to provide as much info as I can about the climbing routes I did with my good friends.
@@ -30,7 +30,7 @@ However, one of them stood out, Arenales, located at the Mendoza's Cordillera, a
 
 These trips had me in awe, not only because of the stunning views and quality of the climbing, but also because of the sheer determination and composure that Santi and other friends (Tortu) climbed with.
 
-![](/_posts/images/arenales/santi_tortu.jpg "Santi, Tortu and Me")
+![](/post_images/arenales/santi_tortu.jpg "Santi, Tortu and Me")
 *Santi, Tortu and Me on the summit of Patricia on my second trip to Arenales.*
 
 
@@ -39,7 +39,7 @@ Having successfully lead two 6a trad pitches on one of those last trips, I learn
 Juancho and Edu are two of the most intelligent life forms I have met during my presence on this planet. Edu is essentially a real-life mad scientist (like the one from Flubber) and Juancho is a mystery box who never ceases to amaze me. I've met them while getting my bachelor's and
 after discovering their interest towards climbing I immediately knew we had to make it to Arenales.
 
-![](./images/arenales/juancho_and_edu.jpg)
+![Juancho and Edu](/post_images/arenales/juancho_and_edu.jpg)
 _Juancho and Edu posing for arguably one of their best pictures in Arenales._
 
 This third trip to Arenales is the manifestation of the lessons learnt and the culmination of a gumby's personal growth. This is the story of how I became Edu's and Juancho's Santi.
