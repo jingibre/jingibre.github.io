@@ -1,9 +1,9 @@
 ---
-title: "MY-TRIP-TO-ARENALES"
+title: "My Trip To Arenales as a Leader"
 date: 2023-12-20
 ---
 
-# Arenales
+# Welcome
 ![Welcome to Arenales](/post_images/arenales/welcome.jpg "Welcome to Arenales")
 
 Bienvenidos, this post is intended to:
@@ -356,7 +356,7 @@ Arenales has consistently provided me:
 - Appreciation of simple foods
 - Justification for bath evasion
 
-For these, I am grateful and eager to request them again next year.
+For these, I am grateful and eager to request them again next year. However, I want to single out one thing I am really grateful for: Juancho and Edu. Without them, this trip could have never happened. Not just because I needed partners but because they believed in me.
 
 I'll leave you with a quote that resonated with me when writing this post and that I hope resonates with you as well:
 
