@@ -56,14 +56,31 @@ Todo esto es para 6 personas carnivoras.
 1. 1.5 a 2 kg de total de cortes de carne. En mi caso fue Vacio y Colita. _Yo compre 3 kg_.
 
 ### Vegetariano
-Todo esto es para 3 personas vegetarianas + 6 carnivoros. Sin cantidades porque no me acuerdo pero lo importante son las ideas.
+Aca les mentí, no hay cantidades, pero más o menos imaginen 3 o 4 de cada cosa, que fue para 3 personas vegetarianas + 6 carnivoros. Repito, sin cantidades porque no me acuerdo pero lo importante son las ideas.
 1. Morrones con huevo.
 1. Hongos con roquefort.
 1. Boniatos envueltos en aluminio a la brasas.
 1. Morrones con roquefort.
 1. Una cabeza de ajo en aluminio a las brasas.
 1. Cebolla a la parrilla y tambien aluminio a las brasas.
+1. Provoletas, con todo lo anterior, de picada y demas con 3 para 9 personas fue suficiente.
 
+## Hacer el Asado
+Los chicos estaban citados tipo 9 PM pero algunos cayeron mas temprano para dar una mano con los preparativos. A eso de las 6 PM arrancamos a tomar un vino blanco con algunas cosas de la picada. Con algo ya en la mano, se me ocurrio arrancar el fuego (tipo 7), a algunos le parecio temprano, pero preferia comer antes y tener tiempo para charlar a la noche. 
+
+Habia comprado 1 bolsa de lena y 1 de carbon, que me parecio suficiente porque la primera estaba pesadisima. Arranque el fuego con una mezcla de papeles de diario, carton, carbon y troncos de lenia. Digo arrancar con el significado de comenzar no de concretar, pues ese maldito fuego nunca termino de prender la lenia. Por eso, decidi dos cosas, primero desarmar todo y arrancar el fuego sin lenia y segundo, comprar un iniciador de fuego para proximas ocaciones.
+
+Y ahi si, arranco ese fuego donde de a ratos, cuando me parecia, le revoleaba un tronquito. Mas o menos cuando vi bastante brasa abajo del canasto de hierro que sostenia todo, empece a pegarle para que escupiera algunso trozos. Los puse abajo de la parrilla y oficialmente habia arrancado a "asar". 
+
+Despues de un rato cuando me parecio que mas o menos la cosa iba (10 segundos hasta quemarme con la mano cerca de la parrilla), le mande la carne. A todo esto seguia alimentando el fuego, pero se me iban acabando las dos bolsas que habia comprado. Diego, mi amigo vio esta situacion y muy correctamente sugirio comprar otra de carbon, que fue un acierto rotundo.
+
+Despues desde aca no hay mucha ciencia, las verduras fueron un poco despues porque tardan menos (salvo las cebollas y la cabeza de ajo), y el resto es simplemente ir viendo e ir repondiendo brasas si las ves medio apagadas.
+
+La frase que me llevo que me dejo Fran fue, el asado vos tiras las cosas y en algun momento se hace, total no hay apuro. Y es verdad, vos tiras algo en la parrilla y eventualmente se hace, no podes poner fuego de menos pero si de mas, asi que cuidado.
+
+Bueno, este segundo post fue hecho con bastante paja y fiebre (en todos los sentidos), con lo cual sirve mas como bitacora que algo a compartir con el mundo.
+
+Los quiero!
 
 
 
