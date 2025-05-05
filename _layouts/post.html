@@ -5,38 +5,74 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
-      body {
-        max-width: 800px;
+      /* 1. Page grid */
+      .page-grid {
+        display: grid;
+        grid-template-columns: 65% 1fr;  /* 65% for main, remainder for sidebar */
+        gap: 2rem;
+        max-width: 900px;
         margin: auto;
         padding: 1rem;
-        font-family: sans-serif;
       }
 
+      /* 2. Content column styling */
+      .content {
+        /* nothing extra needed */
+      }
+
+      /* 3. Sidebar drop-zone */
+      .sidebar {
+        position: relative; /* establishes positioning context for floats */
+      }
+
+      /* 4. Sidebar‐boxes float into the sidebar column */
       .sidebar-float {
-        float: right;
-        width: 40%;
-        margin-left: 1.5rem;
-        margin-bottom: 1rem;
-        padding: 0.75rem;
-        font-size: 0.9em;
-        background: #f7f7f7;
-        border-left: 3px solid #ccc;
+        float: right;       /* pushes it into the sidebar */
+        clear: right;       /* each box starts below the previous one */
+        width: 100%;        /* fill the sidebar column */
+        margin: 0 0 1.5rem; /* bottom gutter */
+        background: none;   /* remove grey background */
+        border: none;       /* remove left bar */
+        font-size: 0.9em;   /* slightly smaller text */
       }
 
+      /* 5. Constrain images */
+      .content img,
+      .sidebar img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      /* 6. Justify main text */
+      .content p {
+        text-align: justify;
+      }
+
+      /* 7. Change site font */
+      body {
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      /* 8. Responsive: stack columns */
       @media (max-width: 700px) {
+        .page-grid {
+          grid-template-columns: 1fr;
+        }
         .sidebar-float {
           float: none;
           width: 100%;
-          margin-left: 0;
-          border-left: none;
-          border-top: 2px solid #ccc;
         }
       }
     </style>
   </head>
   <body>
-    <main>
-      {{ content }}
-    </main>
+    <div class="page-grid">
+      <main class="content">
+        {{ content }}
+      </main>
+      <aside class="sidebar">
+        <!-- sidebar-boxes will float into this column -->
+      </aside>
+    </div>
   </body>
 </html>
