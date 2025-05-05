@@ -1,11 +1,6 @@
 ---
-layout: post
 title: "My Trip To Arenales as a Leader"
 date: 2023-12-20
-sidebar: |
-  ![Topo Map](/post_images/arenales/topo.png)
-  **Note:** I was terrified here!
-
 ---
 
 # Welcome
