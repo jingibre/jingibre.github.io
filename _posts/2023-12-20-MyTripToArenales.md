@@ -31,6 +31,11 @@ It should be reminded, that I am, under no circumstances, a qualified climbing i
 If you want to head right into the Climbing Info, just skip the Backstory or whatever you see fit. I am including plenty of pictures.
 
 ## Backstory
+
+{% include side-note.html
+    content="Here’s the main paragraph text with **Markdown** support."
+    note="> **Note:** Sidebar annotation or ![Image](/post_images/fig.png)" %}
+
 I started climbing on 2017 at one of those "ring the bell at the top" type of walls and it was more than enough to have me instantly hooked. From there, I started consistently climbing at the gym and at the occasional crag.
 
 Soon after I started, I met one of my biggest climbing friends, Santi. Santi is also a mountain guide who, over the course of our climbing partnership, took me to several amazing climbing destinations, such as Sierra La Vigilancia, Capilla del Monte, Piedra Parada, and many more.

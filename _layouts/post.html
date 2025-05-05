@@ -1,78 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <style>
-      /* 1. Page grid */
-      .page-grid {
-        display: grid;
-        grid-template-columns: 65% 1fr;  /* 65% for main, remainder for sidebar */
-        gap: 2rem;
-        max-width: 900px;
-        margin: auto;
-        padding: 1rem;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    /* Base page styling */
+    body {
+      max-width: 800px;
+      margin: auto;
+      padding: 1rem;
+      font-family: Georgia, "Times New Roman", serif;
+    }
 
-      /* 2. Content column styling */
-      .content {
-        /* nothing extra needed */
-      }
+    /* Justify all paragraphs by default */
+    p {
+      text-align: justify;
+      margin-bottom: 1rem;
+    }
 
-      /* 3. Sidebar drop-zone */
-      .sidebar {
-        position: relative; /* establishes positioning context for floats */
-      }
+    /* === Side-Note Pair Grid === */
+    .side-note-pair {
+      display: grid;
+      grid-template-columns: 65% 1fr;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      align-items: start;
+    }
 
-      /* 4. Sidebar‐boxes float into the sidebar column */
-      .sidebar-float {
-        float: right;       /* pushes it into the sidebar */
-        clear: right;       /* each box starts below the previous one */
-        width: 100%;        /* fill the sidebar column */
-        margin: 0 0 1.5rem; /* bottom gutter */
-        background: none;   /* remove grey background */
-        border: none;       /* remove left bar */
-        font-size: 0.9em;   /* slightly smaller text */
-      }
+    /* Main text column inside the pair */
+    .sn-content {
+      /* inherits global p styling */
+    }
 
-      /* 5. Constrain images */
-      .content img,
-      .sidebar img {
-        max-width: 100%;
-        height: auto;
-      }
+    /* Sidebar note column */
+    .sn-note {
+      font-size: 0.9em;
+      line-height: 1.4;
+    }
 
-      /* 6. Justify main text */
-      .content p {
-        text-align: justify;
-      }
+    /* Constrain any images */
+    img {
+      max-width: 100%;
+      height: auto;
+    }
 
-      /* 7. Change site font */
-      body {
-        font-family: Georgia, "Times New Roman", serif;
+    /* Responsive: stack note under text on narrow screens */
+    @media (max-width: 700px) {
+      .side-note-pair {
+        grid-template-columns: 1fr;
       }
-
-      /* 8. Responsive: stack columns */
-      @media (max-width: 700px) {
-        .page-grid {
-          grid-template-columns: 1fr;
-        }
-        .sidebar-float {
-          float: none;
-          width: 100%;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="page-grid">
-      <main class="content">
-        {{ content }}
-      </main>
-      <aside class="sidebar">
-        <!-- sidebar-boxes will float into this column -->
-      </aside>
-    </div>
-  </body>
+    }
+  </style>
+</head>
+<body>
+  <main>
+    {{ content }}
+  </main>
+</body>
 </html>
