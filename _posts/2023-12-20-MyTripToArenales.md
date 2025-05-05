@@ -1,5 +1,5 @@
 ---
-title: "My Trip To Arenales as a Leader"
+title: "my trip to arenales as a leader"
 date: 2023-12-20
 ---
 
