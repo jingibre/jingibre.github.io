@@ -12,3 +12,26 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+
+<style>
+  .sidebar-float {
+    float: right;
+    width: 40%;
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    font-size: 0.9em;
+    background: #f7f7f7;
+    border-left: 3px solid #ccc;
+  }
+
+  @media (max-width: 700px) {
+    .sidebar-float {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      border-left: none;
+      border-top: 2px solid #ccc;
+    }
+  }
+</style>

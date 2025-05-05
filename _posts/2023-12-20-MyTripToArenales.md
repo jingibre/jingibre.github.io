@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My Trip To Arenales as a Leader"
 date: 2023-12-20
 ---
@@ -185,7 +186,10 @@ It is graded as a 4+ but I felt that the crux was around 5/5+. This discrepancy 
 At the top you reach, yet again, another huge ledge that will feel like a deja-vu (bolted boulder).
 
 #### Pitch 2: 5
-This is arguably felt the easiest of all the pitches that day. This is a very straight forward pitch that follows the flake edge. The rock quality is amazing and protections are abundant. 
+This is arguably felt the easiest of all the pitches that day. This is a very straight forward pitch that follows the flake edge. The rock quality is amazing and protections are abundant.
+
+
+{% include sidebar-box.html content="> This is a personal note about how scary the next route was." %}
 
 At this point, I was feeling really comfortable and confident, which was a great thing. I even found myself singing while climbing.
 
