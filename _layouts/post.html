@@ -5,57 +5,76 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    /* Base page styling */
-    body {
+    /* ————————————————————————————————————————
+       1. Wrapper grid: main content + sidebar
+    ————————————————————————————————————————— */
+    .post-body {
+      display: grid;
+      grid-template-columns: 3fr 1fr;   /* 75% main, 25% sidebar */
+      gap: 1.5rem;
       max-width: 800px;
-      margin: auto;
-      padding: 1rem;
-      font-family: Georgia, "Times New Roman", serif;
+      margin: 2rem auto;
+      padding: 0 1rem;
     }
 
-    /* Justify all paragraphs by default */
-    p {
+    /* ————————————————————————————————————————
+       2. Main text styling
+    ————————————————————————————————————————— */
+    .post-content {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+    }
+    .post-content p {
       text-align: justify;
       margin-bottom: 1rem;
     }
-
-    /* === Side-Note Pair Grid === */
-    .side-note-pair {
-      display: grid;
-      grid-template-columns: 65% 1fr;
-      gap: 1rem;
-      margin-bottom: 1.5rem;
-      align-items: start;
+    .post-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
     }
 
-    /* Main text column inside the pair */
-    .sn-content {
-      /* inherits global p styling */
-    }
-
-    /* Sidebar note column */
-    .sn-note {
+    /* ————————————————————————————————————————
+       3. Sticky sidebar notes
+    ————————————————————————————————————————— */
+    .post-aside {
+      position: sticky;
+      top: 2rem;
       font-size: 0.9em;
       line-height: 1.4;
     }
-
-    /* Constrain any images */
-    img {
+    .post-aside img {
       max-width: 100%;
       height: auto;
+      display: block;
+      margin-bottom: 1rem;
     }
 
-    /* Responsive: stack note under text on narrow screens */
+    /* ————————————————————————————————————————
+       4. Responsive fallback: single column
+    ————————————————————————————————————————— */
     @media (max-width: 700px) {
-      .side-note-pair {
+      .post-body {
         grid-template-columns: 1fr;
+      }
+      .post-aside {
+        position: static;
+        margin-top: 2rem;
       }
     }
   </style>
 </head>
 <body>
-  <main>
-    {{ content }}
-  </main>
+  <div class="post-body">
+    <article class="post-content">
+      {{ content }}
+    </article>
+    <aside class="post-aside">
+      {% if page.sidebar %}
+        {{ page.sidebar }}
+      {% endif %}
+    </aside>
+  </div>
 </body>
 </html>

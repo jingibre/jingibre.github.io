@@ -2,6 +2,10 @@
 layout: post
 title: "My Trip To Arenales as a Leader"
 date: 2023-12-20
+sidebar: |
+  ![Topo Map](/post_images/arenales/topo.png)
+  **Note:** I was terrified here!
+
 ---
 
 # Welcome
@@ -31,10 +35,6 @@ It should be reminded, that I am, under no circumstances, a qualified climbing i
 If you want to head right into the Climbing Info, just skip the Backstory or whatever you see fit. I am including plenty of pictures.
 
 ## Backstory
-
-{% include side-note.html
-    content="Here’s the main paragraph text with **Markdown** support."
-    note="> **Note:** Sidebar annotation or ![Image](/post_images/fig.png)" %}
 
 I started climbing on 2017 at one of those "ring the bell at the top" type of walls and it was more than enough to have me instantly hooked. From there, I started consistently climbing at the gym and at the occasional crag.
 
@@ -192,9 +192,6 @@ At the top you reach, yet again, another huge ledge that will feel like a deja-v
 
 #### Pitch 2: 5
 This is arguably felt the easiest of all the pitches that day. This is a very straight forward pitch that follows the flake edge. The rock quality is amazing and protections are abundant.
-
-
-{% include sidebar-box.html content="> This is a personal note about how scary the next route was." %}
 
 At this point, I was feeling really comfortable and confident, which was a great thing. I even found myself singing while climbing.
 
