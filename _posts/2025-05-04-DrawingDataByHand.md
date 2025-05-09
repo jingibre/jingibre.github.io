@@ -3,6 +3,7 @@ title: "drawing data by hand"
 date: 2025-05-04
 ---
 ![Class Quilt](/post_images/drawing%20data%20by%20hand/class_quilt.png "Class Quilt")
+
 *The class quilt. Each square represents a member of the course and each feature of a square —background color, main symbol, border, etc.— represents an answer to a personal question such as: what's your favorite texture to feel in spring?*
 
 Last May I took a digital art class. It was about trying stuff, creating and, surprisingly, learning about myself.
@@ -27,9 +28,9 @@ I was surprised at how much I liked hand-drawn histograms better over the ones I
 
 ###### the history of my family
 
-![family map starter](/post_images/drawing%20data%20by%20hand/family_map_1.png "")
+![family map starter](/post_images/drawing%20data%20by%20hand/family_map_1.png "The first visualization of my family")
 
-![family map final](/post_images/drawing%20data%20by%20hand/family_map_2.png "")
+![family map final](/post_images/drawing%20data%20by%20hand/family_map_2.png "Final abstract visualization")
 - Black dots represent birth
 - Black squares represent remains
 - Thick lines represent immigration
@@ -43,7 +44,7 @@ This was nice. I got to think about my family, especially those who are not with
 
 ###### a map to a friend's house
 
-![edus house](/post_images/drawing%20data%20by%20hand/edus_house.png "")
+![edus house](/post_images/drawing%20data%20by%20hand/edus_house.png "Map to Edu's House")
 
 *prompt: draw a map from memory to your friend's house*
 
@@ -64,7 +65,7 @@ I sorted my messages on a very-late-night Tuesday, which I regret it because I d
 - is it too late to respond?
 - do I miss that person?
 
-![final project structured data](/post_images/drawing%20data%20by%20hand/structured_data.png "")
+![final project structured data](/post_images/drawing%20data%20by%20hand/structured_data.png "Structured Data Unread Whatsapp Messages")
 
 After staring at the spreadsheet for a while looking for patterns, I realized that the *change* of my relationship could be a proxy for the consequences of ghosting. And like that, my journey to represent relationship decay and its connection with ghosting began.
 
@@ -72,7 +73,7 @@ Initially I wanted to draw, since it was my newly-learned tool for representing 
 
 ![doodle 1](/post_images/drawing%20data%20by%20hand/doodle_1.png "Before and After Ghosting")
 
-![doodle 2](/post_images/drawing%20data%20by%20hand/doodle_2.png "")
+![doodle 2](/post_images/drawing%20data%20by%20hand/doodle_2.png "Before and After Ghosting Fluvial Map")
 
 Thinking about Felix's work (and other artists explored in class) I looked out of traditional graphs and thought about material representations. I settled on using envelopes because of:
 1. Their clear relationship with unread messages
