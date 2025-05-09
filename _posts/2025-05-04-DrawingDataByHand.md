@@ -20,7 +20,7 @@ However, I do wanna do the show-and-tell part of the things that I took home: st
 ## i data me
 
 These are some of the things I made - each tied to a prompt, an idea, or an encouraged personal project. Most of them are quick, playful sketches that have personal perception embedded into the data they portray. That’s why I cherish them—improvised creation is one of the ways I feel closest to art, regardless of the result (not me soft-launching that I do improv).
-###### my personal history of condiments
+#### my personal history of condiments
 
 ![Condiments](/post_images/drawing%20data%20by%20hand/condiments.jpg "Condiments Through Time")
 
@@ -28,7 +28,7 @@ These are some of the things I made - each tied to a prompt, an idea, or an enco
 
 I was surprised at how much I liked hand-drawn histograms better over the ones I usually produce with Python. A quick ChatGPT query helped me with the title and the "felt history" stuck with me. I usually feel guilty of my recounting of stories because I tend to add condiments for the sake of the plot. However, disclosing it in the title as _felt_ history, i.e., how I feel it was, provided me the peace of mind of being honest, and understanding how the re-telling of something is almost always biased and that's okay too.
 
-###### the history of my family
+#### the history of my family
 
 ![family map starter](/post_images/drawing%20data%20by%20hand/family_map_1.png "The first visualization of my family")
 
@@ -44,7 +44,7 @@ Any visualization type was encouraged, but having played with maps during class 
 
 This was nice. I got to think about my family, especially those who are not with me. Gave me a big picture of how interestingly varied my family is, which I usually tend to forget about. In addition, it led to a really nice conversation with my grandma which are rare these days, especially as a tired adult (me).
 
-###### a map to a friend's house
+#### a map to a friend's house
 
 ![edus house](/post_images/drawing%20data%20by%20hand/edus_house.png "Map to Edu's House")
 
@@ -52,7 +52,7 @@ This was nice. I got to think about my family, especially those who are not with
 
 I'd never really thought about or noticed personal perception embedded in maps before. It was nice learning that many maps that had struck me in the past had this as a core characteristic. 
 
-###### `reminders_of_decay.envelope`
+#### `reminders_of_decay.envelope`
 
 The final project consisted of creating a visualization of any personal dataset explored during class, I chose my unread WhatsApp messages from the last 4 years. 
 
