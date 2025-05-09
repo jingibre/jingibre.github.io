@@ -2,7 +2,9 @@
 title: "drawing data by hand"
 date: 2025-05-04
 ---
-![Class Quilt](/post_images/drawing%20data%20by%20hand/class_quilt.png "Class Quilt")
+<p align="center">
+  <img src="/post_images/drawing%20data%20by%20hand/class_quilt.png" />
+</p>
 
 *The class quilt. Each square represents a member of the course and each feature of a square —background color, main symbol, border, etc.— represents an answer to a personal question such as: what's your favorite texture to feel in spring?*
 
